@@ -1,11 +1,7 @@
 # My First Codex
 
-This repository contains a simple number guessing game written in Python.
+This repository contains a simple number guessing game implemented for the browser.
 
-## Running the game
+## Playing the game
 
-Run the game using Python 3:
-
-```bash
-python3 guess_number.py
-```
+Open `docs/index.html` in your web browser and try to guess the number between 1 and 100 by entering a guess and clicking the **Guess** button.
